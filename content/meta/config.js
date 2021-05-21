@@ -33,7 +33,7 @@ module.exports = {
   // social
   authorSocialLinks: [
     { name: "github", url: "https://github.com/haratzon" },
-    { name: "twitter", url: "https://twitter.com/haratzon" },
+    { name: "twitter", url: "https://twitter.com/haratzon1" },
     { name: "facebook", url: "http://facebook.com/haratzon" }
   ]
 };
