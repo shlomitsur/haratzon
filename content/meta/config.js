@@ -1,22 +1,22 @@
 module.exports = {
-  siteTitle: "Tsur Blog", // <title>
-  shortSiteTitle: "Tsur - a blog about life", // <title> ending for posts and pages
-  siteDescription: "Tsur - a blog about life description",
-  siteUrl: "https://tsur.org",
+  siteTitle: "Haratzon Blog", // <title>
+  shortSiteTitle: "Haratzon - a blog about life", // <title> ending for posts and pages
+  siteDescription: "Haratzon - a blog about life description",
+  siteUrl: "https://haratzon.com",
   // pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "en",
 
   /* author */
-  authorName: "shlomi tsur",
+  authorName: "haratzon author",
   authorTwitterAccount: "shlomitsur",
 
   /* info */
-  headerTitle: "Tsur",
+  headerTitle: "Haratzon",
   headerSubTitle: "A blog",
 
   /* manifest.json */
-  manifestName: "Tsur - a GatsbyJS starter",
+  manifestName: "Haratzon - a GatsbyJS starter",
   manifestShortName: "HeroBlog", // max 12 characters
   manifestStartUrl: "/index.html",
   manifestBackgroundColor: "white",
@@ -32,8 +32,8 @@ module.exports = {
 
   // social
   authorSocialLinks: [
-    { name: "github", url: "https://github.com/shlomitsur" },
-    { name: "twitter", url: "https://twitter.com/shlomitsur" },
-    { name: "facebook", url: "http://facebook.com/shlomi" }
+    { name: "github", url: "https://github.com/haratzon" },
+    { name: "twitter", url: "https://twitter.com/haratzon" },
+    { name: "facebook", url: "http://facebook.com/haratzon" }
   ]
 };

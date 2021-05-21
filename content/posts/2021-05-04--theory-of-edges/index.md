@@ -2,7 +2,7 @@
 title: שיטת הקצוות
 category: "motivation"
 cover: photo-13007837dae96eaafe2e6fcf09edc2e0.jpeg
-author: Tsur
+author: Haratzon
 ---
 
 שיטת הקצוות אומרת שאתה עובד על כמה פרויקטים.

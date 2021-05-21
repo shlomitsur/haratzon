@@ -2,5 +2,4 @@
 title: author
 ---
 
-**Tsur** is founder of [dinf
-.net](/) and some other projects
+**Haratzon** is a guy with some thoughts
